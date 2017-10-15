@@ -1773,6 +1773,20 @@
 		text-align: right;
 	}
 
+
+	.imagetext h2 {
+		margin-bottom: 0.5em;
+	}
+
+	.imagetext h3 {
+		margin-bottom: 0.5em;
+		font-weight:500;
+	}
+	.imagetext a{
+		color:blue;
+	}
+
+
 /* Box */
 
 	.box {
@@ -2302,7 +2316,7 @@
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 30%;
 		}
 
 			.image.left img, .image.right img {
