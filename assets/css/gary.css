@@ -1,0 +1,16 @@
+@import url(font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
+#dropdownMenuLink{
+  font-size: 100%;
+  padding:0;
+  height: 1.80em;
+  text align: center;
+}
+
+.dropdown-item{
+  text align: center;
+}
+.btn-secondary{
+  text align: center;
+}
